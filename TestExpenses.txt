@@ -1,0 +1,3 @@
+true 12.20 2020 5 23 RideShare Travel Lyft
+true 20.0 2020 7 13 Coffee Food Starbucks
+true 1000.0 2020 12 4 Rent/Mortgage Housing Zrent

@@ -1,0 +1,27 @@
+Test Budget
+Envelopes
+	Travel: This month $100.0 was allocated, $12.2 was Spent, and $87.8 is remaining
+	Categories
+		Flights
+		PublicTransit
+		RideShare
+			Lyft Wed Jun 23 00:00:00 EDT 3920 $12.2
+		Gas
+		CarMaintenance
+		Other
+	Housing: This month $100.0 was allocated, $1000.0 was Spent, and $-900.0 is remaining
+	Categories
+		Rent/Mortgage
+			Zrent Tue Jan 04 00:00:00 EST 3921 $1000.0
+		Maintenance
+		Supplies
+		Utilties
+		Other
+	Food: This month $100.0 was allocated, $20.0 was Spent, and $80.0 is remaining
+	Categories
+		Restaurant
+		Groceries
+		Delivery
+		Coffee
+			Starbucks Fri Aug 13 00:00:00 EDT 3920 $20.0
+		Other
